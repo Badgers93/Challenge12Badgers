@@ -16,7 +16,7 @@ Employee tracker using SQL database with iniquirer to interact with the user
 Download the files and type npm install
 
 ## Usage 
-After installation type npm run seed in the terminal to seed the database. Make sure your database is running. Then type npm start in the terminal.
+After installation seed the databse by copying from schema and seeds into workbench. Make sure your database is running. Then type npm start in the terminal.
 
 ## License
 MIT
